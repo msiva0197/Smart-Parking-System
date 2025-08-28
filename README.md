@@ -1,4 +1,4 @@
-# 🅿️ Smart Parking System using Arduino + LCD (I2C)
+# 🅿️ Smart Parking System using Arduino 
 📌 Project Overview
 
 This project is a Smart Parking System using Arduino UNO, IR sensors, and a 16x2 I2C LCD.
